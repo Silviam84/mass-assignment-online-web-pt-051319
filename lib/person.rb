@@ -4,5 +4,8 @@ class Person
   :complexion, :t_shirt_size, :wrist_size, :glove_size, :pant_length, :pant_width)
 end
 def bob_attributes = {name: "Bob", hair_color: "Brown"}
+end
+
+
 
 `end
